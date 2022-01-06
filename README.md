@@ -1,4 +1,4 @@
-# Challenge_2: Loan Qualifier Application
+Loan Qualifier Application
 the loan qualifier application uses python code to filter and streamline the process of matching banks to borrowers.
 the application requires users to provide basic credit metrics to match borrowers and banks.  these include:
 - monthly income
